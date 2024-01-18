@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #home {
-	background-image: url(./img/cover.jpg);
+	background-image: url(./cover.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
