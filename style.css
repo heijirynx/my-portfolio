@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #home {
-	background-image: url(./cover.jpg);
+	background-image: url(./cover.JPG);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -302,7 +302,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./her.jpg);
+	background-image: url(./her.JPG);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
